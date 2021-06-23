@@ -4,7 +4,7 @@
   "package": "com.cre3tor.mobhealthindicator.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "CrosshairIndicator"
+    "GameHudMixin"
   ],
   "client": [
   ],
